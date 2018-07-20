@@ -1,7 +1,7 @@
 # Society Against Variable Entropy
 ## Saving humanity by escaping the heat-death of the universe
 
-Society Against Variable Entropy (SAVE) is a pending 501(3)(c) non-profit religious corporation registered in the state of Arizona.
+Society Against Variable Entropy (SAVE) is a pending 501(3)(c) non-profit religious corporation registered in the state of Texas.
 
 The church has a leading North-Star goal: for humanity to escape the known universe.
 

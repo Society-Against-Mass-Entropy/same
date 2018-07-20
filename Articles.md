@@ -1,6 +1,6 @@
 > In progress...
 
-**Articles of Incorporation of** the undersigned, a majority of whom are citizens of the United States, desiring to form a Non-Profit Corporation under the Non-Profit Corporation Law of the State of Arizona, do hereby certify:
+**Articles of Incorporation of** the undersigned, a majority of whom are citizens of the United States, desiring to form a Non-Profit Corporation under the Non-Profit Corporation Law of the State of Texas, do hereby certify:
 
 **First**: The name of the Corporation shall be Society Against Variable Entropy.
 
