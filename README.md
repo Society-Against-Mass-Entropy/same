@@ -5,13 +5,14 @@ Society Against Variable Entropy (SAVE) is a pending 501(3)(c) non-profit religi
 
 The church has a leading North-Star goal: for humanity to escape the known universe.
 
-For this to occur, humanity must persist sustainably, fight against stagnation and pursue advancement into space.
+For this to occur, humanity must persist sustainably, fight against stagnation and pursue advancement into space. Additionally, clergy members must remain living (either in corporeal form or as digital intellegences) as long as possible to make it to the end-game. Once we have escaped the confines of the known universe, the church will find a new goal--likely to escape the confines of whatever housing we are found to be in outside of the known universe.
 
 Individual members of the order practice belief in many ways, including but not limited to the following:
 
 1. creating new art to inspire adoption of the society's goals
 2. maintaining volatility in markets by pushing against the calculated mean
 3. pursuing the sustainable advancement of humans toward the ultimate goal of breaking out of the universe
+4. maintaining longevity
 
 ### Practices
   - Find the middle in all things

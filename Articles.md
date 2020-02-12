@@ -10,7 +10,7 @@
 
 **Fourth**: The names and addresses of the persons who are the initial trustees of the corporation are as follows:
 
-*Name*: ShadowPuppet, LLC *Address*: 
+*Name*: SAVE, INC *Address*: 
 
 **Fifth**: No part of the net earnings of the corporation shall inure to the benefit of, or be distributable to its members, trustees, officers, or other private persons, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in Article Third hereof. No substantial part of the activities of the corporation shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the corporation shall not participate in, or intervene in (including the publishing or distribution of statements) any political campaign on behalf of or in opposition to any candidate for public office. Notwithstanding any other provision of these articles, the corporation shall not carry on any other activities not permitted to be carried on (a) by a corporation exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code, or (b) by a corporation, contributions to which are deductible under section 170(c)(2) of the Internal Revenue Code, or the corresponding section of any future federal tax code.
 
