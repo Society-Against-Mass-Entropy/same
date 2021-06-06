@@ -1,8 +1,8 @@
-# Society Against Variable Entropy
+# Society Against Mass Entropy
 
 ## Saving humanity by escaping the heat-death of the universe
 
-Society Against Variable Entropy (SAVE) is a pending 501(3)(c) non-profit religious corporation registered in the state of Texas.
+Society Against Mass Entropy (SAME) is a pending 501(3)(c) non-profit religious corporation registered in the state of Texas.
 
 The church has a leading North-Star goal: for humanity to escape the known universe.
 
@@ -13,7 +13,7 @@ Individual members of the order practice belief in many ways, including but not 
 1. Creating art to inspire adoption of the society's goals
 2. Maintaining volatility in markets by pushing against the calculated mean
 3. Pursuing the sustainable advancement of humans toward the ultimate goal of breaking out of the currently known universe
-4. Maintaining longevity in the face of constant deterioration (variable entropy)
+4. Maintaining longevity in the face of constant deterioration (mass/variable entropy)
 5. Enlightening those who follow other organized religions to the beauty and necessity of scientific theories and doubt
 
 ## Practices
