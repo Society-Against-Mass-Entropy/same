@@ -42,6 +42,8 @@ Time is a human measurement of entropy. We can slow time (and thereby slow entro
 
 ## Reading
 
+The Society does not yet have it's own great novel (though this is in-progress). In the meantime for the modern disciple, the following reading list is paramount to enlightenment:
+
 - `Sapiens` by Yuval Harari: [Wikipedia](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) | [Amazon](https://www.amazon.com/Sapiens-Yuval-Noah-Harari-audiobook/dp/B0741F3M7C) - A brief history of humankind, with specific historical reference points in the evolution of religions, their purposes as social and meta-cognitive tools, and a hint at the next phase of meta-religious formation.
 - `Snow Crash` by Neal Stephenson: [Wikipedia](https://en.wikipedia.org/wiki/Snow_Crash) | [Amazon](https://www.amazon.com/Snow-Crash-Neal-Stephenson-audiobook/dp/B00005NZJA/ref=sr_1_1) - An entertaining science-fiction of it's time, in which religion itself is exposed as a memetic virus of the mind, and which also accurately prophesied the birth of the Metaverse
 - `Accelerando` by Charles Stross: [Creative Commons Ebook](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) | [Wikipedia](https://en.wikipedia.org/wiki/Accelerando) | [Good Reads](https://www.goodreads.com/book/show/17863.Accelerando) - Possibly one of the most accurate future prediction science-fiction books, in which human identity is mapped more strongly to external augmentation than to direct physical manifestations, and time, distance, longevity, heritage, and many other current notions are flipped on their heads as we approach a singularity.
